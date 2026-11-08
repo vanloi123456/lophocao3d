@@ -1,0 +1,6 @@
+{
+  "name": "Lớp học ảo 3D - Giáo viên sáng tạo",
+  "description": "Không gian phòng học ảo 3D VR tương tác dành cho giáo viên và học sinh tiểu học với bảng thông minh, kho hình ảnh, rạp chiếu video, trò chơi nhúng và học liệu số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
